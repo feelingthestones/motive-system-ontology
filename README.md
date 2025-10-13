@@ -1,6 +1,6 @@
 # 📘《动机–系统论（MST）》白皮书（v1.0）
 
-**Authored by Charles Li Mingqian**
+**Authored by Charles Li 查尔斯 李**
 Creator of *Feeling the Stones / 摸石过河*
 
 ---
