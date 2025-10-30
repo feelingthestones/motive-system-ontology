@@ -11,7 +11,7 @@
 <p align="center">
   <a href="docs/index.md">📖 阅读完整文档</a> •
   <a href="https://www.youtube.com/channel/UCleqiQruKyTIRFJYfTIvsew/">🎬 视频讲解</a> •
-  <a href="https://github.com/your-username/motive-system-ontology/discussions">💬 参与讨论</a>
+  <a href="https://github.com/feelingthestones/motive-system-ontology/discussions">💬 参与讨论</a>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ## 🎬 视频讲解
 
-[YouTube频道：动机系统论](https://youtube.com/@your-channel)
+[YouTube频道：动机系统论](https://www.youtube.com/@feeling-the-stones)
 
 ### 预告系列
 - [EP01: 我发现了宇宙的秘密](link)
@@ -68,9 +68,9 @@
 
 ## 💬 参与讨论
 
-- **提问与讨论**: [GitHub Discussions](https://github.com/your-username/motive-system-ontology/discussions)
-- **发现错误**: [提交Issue](https://github.com/your-username/motive-system-ontology/issues)
-- **改进建议**: [提交Pull Request](https://github.com/your-username/motive-system-ontology/pulls)
+- **提问与讨论**: [GitHub Discussions](https://github.com/feelingthestones/motive-system-ontology/discussions)
+- **发现错误**: [提交Issue](https://github.com/feelingthestones/motive-system-ontology/issues)
+- **改进建议**: [提交Pull Request](https://github.com/feelingthestones/motive-system-ontology/pulls)
 
 ---
 

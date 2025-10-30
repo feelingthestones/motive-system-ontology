@@ -61,7 +61,7 @@
 这个理论还在生成中。
 
 如果你有批评、疑问、补充，  
-请在 [GitHub Discussions](https://github.com/your-username/motive-system-ontology/discussions) 留言。
+请在 [GitHub Discussions](https://github.com/feelingthestones/motive-system-ontology/discussions) 留言。
 
 让我们一起完善这个理论。  
 让我们一起理解：宇宙到底在干什么。
