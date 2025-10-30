@@ -9,6 +9,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read
 
 concurrency:
   group: "pages"
@@ -34,10 +35,9 @@ jobs:
       - name: Build site
         run: mkdocs build --strict
 
-      - name: Configure Pages
+      - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
