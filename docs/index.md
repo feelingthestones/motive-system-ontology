@@ -75,7 +75,7 @@
   - 热力学第二定律的本体论解释
   - 流动不需要原因
 
-- [**第三章** 差异是流动的前提](chapters/part1-ontology/ch03-difference-prerequisite.md)
+- [**第三章** 差异是流动的前提](chapters/part1-ontology/ch03-difference-is-prerequisite.md)
   - 对称性与不可流动性
   - 对称性破缺是宇宙的起源
   - ±电荷、质量、时空的本质
@@ -177,7 +177,7 @@
 
 === "宇宙起源"
     - [序章：元祖之问](preface.md)
-    - [第三章：差异是流动的前提](chapters/part1-ontology/ch03-difference-prerequisite.md)
+    - [第三章：差异是流动的前提](chapters/part1-ontology/ch03-difference-is-prerequisite.md)
     - [第八章：物理层的流动](chapters/part3-manifestation/ch08-physics.md)
 
 === "生命起源"
