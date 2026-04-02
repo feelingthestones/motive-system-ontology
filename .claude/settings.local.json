@@ -9,7 +9,10 @@
       "Bash(git push:*)",
       "Bash(pip3 install:*)",
       "Bash(python3 -c \"from pymdownx.superfences import fence_mermaid; print\\(''ok''\\)\")",
-      "Bash(python3 -c \"from pymdownx.superfences import fence_code_format; print\\(''use fence_code_format''\\)\")"
+      "Bash(python3 -c \"from pymdownx.superfences import fence_code_format; print\\(''use fence_code_format''\\)\")",
+      "Bash(gh run:*)",
+      "Bash(python3 -m mkdocs build --strict)",
+      "Bash(/Users/mingqianli/Library/Python/3.9/bin/mkdocs build:*)"
     ]
   }
 }

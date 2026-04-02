@@ -169,4 +169,4 @@ The question is not whether society will change. It always does. The question is
 
 ---
 
-[← 上一章：第十一章　意识层的流动](ch11-consciousness.md) | [下一章：第十三章（第四编开始） →](../part4-dialogues/ch13.md)
+[← 上一章：第十一章　意识层的流动](ch11-consciousness.md) | [下一章：第十三章（第四编开始） →](../part4-dialogues/ch13-vs-dao.md)

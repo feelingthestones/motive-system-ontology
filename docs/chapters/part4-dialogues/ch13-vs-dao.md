@@ -176,4 +176,4 @@ We add: "And the root itself is ever in motion."*
 
 ---
 
-[上一章：第十二章](ch12-overview.md) | [下一章：第十四章 →](ch14-vs-buddhism.md)
+[上一章：第十二章](../part3-manifestation/ch12-civilization.md) | [下一章：第十四章 →](ch14-vs-buddhism.md)
