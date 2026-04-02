@@ -1,130 +1,283 @@
-/* 卡片网格样式 */
-.grid.cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1rem;
-  margin: 2rem 0;
+/* ========================================
+   MSO — Modern Design System
+   ======================================== */
+
+/* --- Custom Properties --- */
+:root {
+  --mso-purple: #6d28d9;
+  --mso-purple-light: #a78bfa;
+  --mso-purple-subtle: #ede9fe;
+  --mso-purple-deep: #4c1d95;
+  --mso-gold: #d97706;
+  --mso-radius: 12px;
+  --mso-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --mso-shadow-md: 0 4px 20px rgba(109, 40, 217, 0.08);
+  --mso-shadow-lg: 0 12px 40px rgba(109, 40, 217, 0.12);
+  --mso-transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.grid.cards > * {
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 0.5rem;
-  padding: 1.5rem;
-  transition: transform 0.2s, box-shadow 0.2s;
-  background: var(--md-default-bg-color);
+[data-md-color-scheme="slate"] {
+  --mso-purple-subtle: rgba(167, 139, 250, 0.08);
+  --mso-shadow-md: 0 4px 20px rgba(0, 0, 0, 0.2);
+  --mso-shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.3);
 }
 
-.grid.cards > *:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  border-color: var(--mso-purple-light);
+/* --- Typography --- */
+h1 {
+  font-size: 2em !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.02em;
+  color: var(--mso-purple) !important;
+  line-height: 1.2 !important;
 }
 
-/* 大图标样式 */
-.lg.middle {
-  font-size: 3em;
-  display: block;
+h2 {
+  font-size: 1.5em !important;
+  font-weight: 700 !important;
+  color: var(--mso-purple) !important;
+  margin-top: 3rem !important;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--mso-purple-subtle);
+}
+
+h3 {
+  font-weight: 600 !important;
+  letter-spacing: -0.01em;
+}
+
+/* --- Hero Subtitle (tagline) --- */
+.md-typeset p[style*="font-size: 1.5em"] {
+  font-size: 1.25em !important;
+  font-weight: 600 !important;
+  color: var(--mso-purple) !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  -webkit-text-fill-color: unset !important;
+  background-clip: unset !important;
   text-align: center;
-  margin-bottom: 0.5rem;
-  color: var(--mso-purple);
+  margin: 1rem auto 2rem !important;
+  padding: 0.75rem 1.5rem;
+  max-width: 600px;
+  border-left: 3px solid var(--mso-purple);
+  border-right: 3px solid var(--mso-purple);
 }
 
-/* 改进的admonition样式 */
-.md-typeset .admonition {
-  border-left: 4px solid var(--mso-purple);
+/* --- Logo --- */
+.md-typeset img[alt*="Logo"] {
+  max-width: 220px;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: var(--mso-shadow-md);
+  transition: var(--mso-transition);
+}
+
+.md-typeset img[alt*="Logo"]:hover {
+  transform: scale(1.03);
+  box-shadow: var(--mso-shadow-lg);
+}
+
+/* --- Horizontal Rules --- */
+.md-typeset hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--mso-purple-light),
+    transparent
+  );
+  margin: 2.5rem 0;
+}
+
+/* --- Admonitions --- */
+.md-typeset .admonition,
+.md-typeset details {
+  border: none !important;
+  border-left: 3px solid var(--mso-purple) !important;
+  border-radius: var(--mso-radius) !important;
+  box-shadow: var(--mso-shadow-sm);
+  overflow: hidden;
+  transition: var(--mso-transition);
+  background: var(--mso-purple-subtle) !important;
+}
+
+.md-typeset .admonition:hover,
+.md-typeset details:hover {
+  box-shadow: var(--mso-shadow-md);
 }
 
 .md-typeset .admonition.info {
-  border-left-color: #0ea5e9;
+  border-left-color: #0ea5e9 !important;
+  background: rgba(14, 165, 233, 0.05) !important;
 }
 
 .md-typeset .admonition.tip {
-  border-left-color: #10b981;
+  border-left-color: #10b981 !important;
+  background: rgba(16, 185, 129, 0.05) !important;
 }
 
 .md-typeset .admonition.example {
-  border-left-color: #f59e0b;
+  border-left-color: var(--mso-gold) !important;
+  background: rgba(217, 119, 6, 0.05) !important;
 }
 
 .md-typeset .admonition.question {
-  border-left-color: #8b5cf6;
+  border-left-color: #8b5cf6 !important;
+  background: rgba(139, 92, 246, 0.05) !important;
 }
 
 .md-typeset .admonition.success {
-  border-left-color: #22c55e;
+  border-left-color: #22c55e !important;
+  background: rgba(34, 197, 94, 0.05) !important;
 }
 
-/* 标签页样式增强 */
+.md-typeset .admonition.abstract {
+  border-left-color: #6366f1 !important;
+  background: rgba(99, 102, 241, 0.05) !important;
+}
+
+/* --- Tabbed Content --- */
 .md-typeset .tabbed-set {
   margin: 2rem 0;
+  border-radius: var(--mso-radius);
+  overflow: hidden;
+  box-shadow: var(--mso-shadow-sm);
+}
+
+.md-typeset .tabbed-labels {
+  border-bottom: 2px solid var(--mso-purple-subtle);
 }
 
 .md-typeset .tabbed-labels > label {
   font-weight: 600;
-  color: var(--mso-purple);
+  color: var(--md-default-fg-color--light);
+  transition: var(--mso-transition);
+  padding: 0.75rem 1.25rem;
 }
 
 .md-typeset .tabbed-labels > label:hover {
-  color: var(--mso-purple-light);
-}
-
-/* 自定义颜色 */
-:root {
-  --mso-purple: #7c3aed;
-  --mso-purple-light: #a78bfa;
-}
-
-/* 标题重点色 */
-h1, h2 {
   color: var(--mso-purple);
 }
-/
-* 图标链接样式 */
-.md-typeset a[href*="octicons"] {
+
+.md-typeset .tabbed-labels > label.active,
+.md-typeset input:checked + label {
+  color: var(--mso-purple) !important;
+  border-color: var(--mso-purple) !important;
+}
+
+/* --- Links --- */
+.md-typeset a {
+  color: var(--mso-purple);
   text-decoration: none;
+  transition: var(--mso-transition);
+}
+
+.md-typeset a:hover {
+  color: var(--mso-purple-deep);
+}
+
+/* Octicon arrow links — CTA style */
+.md-typeset a:has(.twemoji) {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
   font-weight: 600;
+  padding: 0.25rem 0;
+  border-bottom: 2px solid transparent;
+  transition: var(--mso-transition);
+}
+
+.md-typeset a:has(.twemoji):hover {
+  border-bottom-color: var(--mso-purple-light);
+}
+
+/* --- List Items (chapter links) --- */
+.md-typeset li {
+  margin-bottom: 0.35rem;
+}
+
+.md-typeset li > a > strong {
   color: var(--mso-purple);
 }
 
-.md-typeset a[href*="octicons"]:hover {
-  color: var(--mso-purple-light);
+/* --- Blockquotes --- */
+.md-typeset blockquote {
+  border-left: 3px solid var(--mso-purple-light);
+  padding: 0.5rem 1rem;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+  background: var(--mso-purple-subtle);
+  border-radius: 0 var(--mso-radius) var(--mso-radius) 0;
 }
 
-/* 居中内容样式 */
+/* --- Center-aligned content --- */
 p[align="center"] {
   text-align: center;
   margin: 2rem 0;
 }
 
-/* 进度追踪样式 */
-.md-typeset .admonition.tip ul li {
-  margin: 0.5rem 0;
+/* --- Footer CTA --- */
+.md-typeset p[align="center"] a {
+  font-weight: 700;
+  font-size: 1.1em;
+  color: var(--mso-purple);
+  transition: var(--mso-transition);
 }
 
-/* 响应式图片 */
-.md-typeset img[alt*="Logo"] {
-  max-width: 100%;
-  height: auto;
-  border-radius: 0.5rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+.md-typeset p[align="center"] a:hover {
+  color: var(--mso-purple-deep);
 }
 
-/* 底部版权样式 */
+/* --- Copyright Footer --- */
 p[style*="color: #6b7280"] {
-  border-top: 1px solid var(--md-default-fg-color--lightest);
+  border-top: 1px solid var(--mso-purple-subtle);
   padding-top: 2rem;
   margin-top: 3rem;
+  text-align: center;
+  font-size: 0.85em;
 }
 
-/* 强调文本样式 */
-.md-typeset p[style*="font-size: 1.5em"] {
-  background: linear-gradient(135deg, var(--mso-purple), var(--mso-purple-light));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  text-align: center;
-  margin: 2rem 0;
-  padding: 1rem;
-  border-radius: 0.5rem;
-  background-color: var(--md-default-fg-color--lightest);
+/* --- Progress / Tip list --- */
+.md-typeset .admonition.tip ul li {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+}
+
+/* --- Smooth Scroll --- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* --- Content max-width for readability --- */
+.md-content__inner {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+
+/* --- Navigation polish --- */
+.md-nav__link {
+  transition: var(--mso-transition);
+}
+
+.md-nav__link:hover {
+  color: var(--mso-purple) !important;
+}
+
+.md-nav__link--active {
+  color: var(--mso-purple) !important;
+  font-weight: 600;
+}
+
+/* --- Header bar accent --- */
+.md-header {
+  box-shadow: 0 1px 8px rgba(109, 40, 217, 0.08);
+}
+
+/* --- Appendix emoji links --- */
+.md-typeset li > a:first-child {
+  transition: var(--mso-transition);
+}
+
+.md-typeset li > a:first-child:hover {
+  opacity: 0.85;
 }

@@ -3,9 +3,6 @@ site_description: 能量想要流动，这是宇宙存在的唯一原因
 site_author: 摸石过河 查尔斯
 site_url: https://feelingthestones.github.io/motive-system-ontology/
 
-repo_name: motive-system-ontology
-repo_url: https://github.com/feelingthestones/motive-system-ontology
-
 theme:
   name: material
   language: zh
@@ -80,7 +77,6 @@ nav:
     - 参考文献: appendix/references.md
     - 常见问题 FAQ: appendix/faq.md
     - 批评与回应: appendix/criticisms.md
-  - 💬 讨论: https://github.com/feelingthestones/motive-system-ontology/discussions
   - 🎬 视频: https://youtube.com/@feeling-the-stones
 
 plugins:
@@ -108,8 +104,6 @@ extra:
   social:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/channel/UCleqiQruKyTIRFJYfTIvsew/
-    - icon: fontawesome/brands/github
-      link: https://github.com/feelingthestones
     - icon: fontawesome/brands/twitter
       link: https://x.com/FeelingStones88
 extra_css:

@@ -27,11 +27,6 @@
     
     [:octicons-arrow-right-24: 前往频道](https://youtube.com/@feeling-the-stones)
 
-!!! question "参与讨论"
-    提问、批评、分享你的理解
-    
-    [:octicons-arrow-right-24: Discussion](https://github.com/feelingthestones/motive-system-ontology/discussions)
-
 ---
 
 ## 📚 完整目录
@@ -208,39 +203,6 @@
 - [📚 参考文献](appendix/references.md) - 相关阅读推荐
 - [❓ FAQ](appendix/faq.md) - 常见问题解答
 - [💭 批评与回应](appendix/criticisms.md) - 理论的局限与反驳
-
----
-
-
-## 💬 参与讨论
-
-<div class="grid cards" markdown>
-
--   :material-forum:{ .lg .middle } __GitHub Discussions__
-
-    ---
-    
-    提问、批评、分享你的理解
-    
-    [:octicons-arrow-right-24: 前往讨论区](https://github.com/feelingthestones/motive-system-ontology/discussions)
-
--   :material-bug:{ .lg .middle } __发现错误？__
-
-    ---
-    
-    帮助改进这个理论
-    
-    [:octicons-arrow-right-24: 提交Issue](https://github.com/feelingthestones/motive-system-ontology/issues)
-
--   :material-source-pull:{ .lg .middle } __有改进建议？__
-
-    ---
-    
-    直接贡献内容
-    
-    [:octicons-arrow-right-24: 提交PR](https://github.com/feelingthestones/motive-system-ontology/pulls)
-
-</div>
 
 ---
 
