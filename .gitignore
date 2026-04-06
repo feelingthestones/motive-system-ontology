@@ -45,3 +45,6 @@ logs/
 # Backup files
 *.bak
 *.backup
+
+# Internal working documents (not for public repo)
+.claude/MSO-CORE-STANDARDS.md
