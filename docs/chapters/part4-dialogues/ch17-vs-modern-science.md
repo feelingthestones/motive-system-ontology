@@ -19,7 +19,7 @@ MSO与现代科学不是**"哲学vs科学"**的对立。
 
 换句话说：
 - 不是"MSO预言了量子纠缠"（量子力学独立于任何哲学而被发现）
-- 而是"量子纠缠这个事实，恰好与MSO关于'关系先于实体'的观点一致"
+- 而是"量子纠缠这个事实，正与MSO关于'关系先于实体'的观点相一致"
 
 ---
 
@@ -196,7 +196,7 @@ MSO的观点：自然选择不是外在的筛选，而是**系统与环境能量
 | 测量 | - | 热力学第二定律、量子不确定性 |
 | 解释 | - | 耗散结构理论、信息论 |
 
-科学不是反驳东方哲学，而是**用精确的语言和数据确认同样的洞见**。
+科学不是反驳东方哲学，而是**用精确的语言和数据印证同样的洞见**。
 
 当我们说"流动是本体"时，热力学、量子力学、进化论、神经科学全部提供了支持的证据。
 
@@ -280,7 +280,7 @@ MSO的核心命题（"流动是本体"、"自相似"、"差异是存在的前提
 我们的答案：
 - **与儒家**：继承其伦理洞见，把它宇宙化
 - **与西方哲学**：补完其形而上学，从过程本体走向能量流动
-- **与现代科学**：东方哲学的直觉得到了科学的验证
+- **与现代科学**：东方哲学的直觉与科学发现相互印证、彼此呼应
 
 MSO不是在否定任何传统。**MSO是所有深刻思想汇流的地点。**
 
@@ -289,8 +289,8 @@ MSO不是在否定任何传统。**MSO是所有深刻思想汇流的地点。**
 ---
 
 *Science measured what philosophy dreamed.
-The thermometer proved what Laozi saw.
-The equation showed what Confucius felt.
+The thermometer echoed what Laozi saw.
+The equation traced what Confucius felt.
 Not contradiction, but convergence.
 A thousand years of intuition,
 a hundred years of measurement,

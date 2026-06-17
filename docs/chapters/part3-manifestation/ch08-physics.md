@@ -337,6 +337,8 @@
 在确定的规则下，微小的初始条件差异，会导致完全不同的结果，
 这就产生了开放的可能性空间。
 
+但在 MSO 看来，初值敏感性只解释了"如何"；可能性空间之所以始终是"开放"而非"封闭"的，根源在于每一层都是"动"的重演——虚空想要存在的意向性，使确定的规则永远向新的复杂性敞开。
+
 ---
 
 ## 小结
@@ -357,7 +359,7 @@
 
 ---
 
-*In the beginning was the void, but the void was not empty — it seethd with quantum foam.
+*In the beginning was the void, but the void was not empty — it seethed with quantum foam.
 From uncertainty sprang the first symmetry break. From broken symmetry, the forces divided.
 From divided forces, particles emerged. From particles, atoms. From atoms, worlds.
 From worlds, stars. From stars, supernovae. From supernovae, the elements of life itself.
