@@ -368,4 +368,4 @@ The universe is not a frozen monument but a living process, eternally making its
 
 ---
 
-[← 上一章：统——稳定与新生](../part2-stages/ch07-unity.md) | [下一章：化学层的流动 →](ch09-chemistry.md)
+[← 上一章：转轴——一把可以自己用的刀](../part2-stages/ch07b-the-tool.md) | [下一章：化学层的流动 →](ch09-chemistry.md)

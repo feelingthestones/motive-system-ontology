@@ -306,4 +306,4 @@ This is tong — the fourth stage, which opens into the first.*
 
 ---
 
-[← 上一章：系——组织流动](ch06-system.md) | [下一章：第三编 物理层 →](../part3-manifestation/ch08-physics.md)
+[← 上一章：系——组织流动](ch06-system.md) | [下一章：转轴——一把可以自己用的刀 →](ch07b-the-tool.md)
