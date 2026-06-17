@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="docs/index.md">📖 阅读完整文档</a> •
-  <a href="https://www.youtube.com/channel/UCleqiQruKyTIRFJYfTIvsew/">🎬 视频讲解</a> •
+  <a href="https://www.youtube.com/@feeling-the-stones">🎬 视频讲解</a> •
   <a href="https://github.com/feelingthestones/motive-system-ontology/discussions">💬 参与讨论</a>
 </p>
 
@@ -97,7 +97,7 @@
 创作者 | Feeling the Stones  
 动机系统论发起人
 
-- YouTube: [@feeling-the-stones](https://www.youtube.com/channel/UCleqiQruKyTIRFJYfTIvsew/)
+- YouTube: [@feeling-the-stones](https://www.youtube.com/@feeling-the-stones)
 - Twitter: [@FeelingStones88](https://x.com/FeelingStones88)
 - Email: feeling.the.stones@gmail.com
 
