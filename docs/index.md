@@ -98,10 +98,11 @@
 !!! tip "详细展开宇宙运作的语法"
     从量子到文明，都遵循同一个四阶段过程
 
-- [**第四章** 动：能量的倾向](chapters/part2-stages/ch04-motion.md)
-- [**第五章** 机：找到流动的契机](chapters/part2-stages/ch05-mechanism.md)
-- [**第六章** 系：组织流动的结构](chapters/part2-stages/ch06-system.md)
-- [**第七章** 统：稳定的流动模式](chapters/part2-stages/ch07-unity.md)
+- [**第四章** 动：能量的最初冲动](chapters/part2-stages/ch04-motion.md)
+- [**第五章** 机：找到流动的裂缝](chapters/part2-stages/ch05-mechanism.md)
+- [**第六章** 系：编织流动的通道](chapters/part2-stages/ch06-system.md)
+- [**第七章** 统：稳定与新生](chapters/part2-stages/ch07-unity.md)
+- [**第二编·转轴** 动机系统：一把可以自己用的刀](chapters/part2-stages/ch07b-the-tool.md)
 
 ---
 
@@ -167,7 +168,7 @@
 - [**第十九章** 理解社会](chapters/part5-application/ch19-understanding-society.md)
   - 经济、政治、文化的动机系统
 
-- [**第二十章** AI的意识问题](chapters/part5-application/ch20-ai-consciousness.md)
+- [**第二十章** AI与意识：它有"动"吗？](chapters/part5-application/ch20-ai-consciousness.md)
   - 现在的AI有"动-机-系-统"吗？
   - AGI需要什么？
 
@@ -197,7 +198,7 @@
 
 === "意识本质"
     - [第十一章：意识层的流动](chapters/part3-manifestation/ch11-consciousness.md)
-    - [第二十章：AI的意识问题](chapters/part5-application/ch20-ai-consciousness.md)
+    - [第二十章：AI与意识：它有"动"吗？](chapters/part5-application/ch20-ai-consciousness.md)
 
 === "个人成长"
     - [第十八章：理解自己](chapters/part5-application/ch18-understanding-self.md)
