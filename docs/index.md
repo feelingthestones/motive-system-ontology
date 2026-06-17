@@ -16,10 +16,10 @@
 
 我相信，物理、生命、意识与文明背后藏着同一条线索——**能量想要流动**。多年来我把这个直觉一点点打磨成一套完整的本体论框架：从对称性破缺到粒子与时空，从 DNA 到神经元，从货币到 AI，万物的复杂性都是能量在寻找更好的流动方式。这本书就是这套思考的完整呈现。
 
-在 YouTube 频道 **[摸石过河 · Feeling the Stones](https://www.youtube.com/@feeling-the-stones)**，我用视频把这些抽象的哲学一层层讲清楚——配合本书边看边读，理解会更顺畅。如果你也对"存在为什么存在"这类问题着迷，欢迎一起摸着石头过河。
+在 YouTube 频道 **[摸石过河 · Feeling the Stones](https://www.youtube.com/@%E6%91%B8%E7%9F%B3%E8%BF%87%E6%B2%B3)**，我用视频把这些抽象的哲学一层层讲清楚——配合本书边看边读，理解会更顺畅。如果你也对"存在为什么存在"这类问题着迷，欢迎一起摸着石头过河。
 
 <p align="center">
-  <a href="https://www.youtube.com/@feeling-the-stones">🎬 YouTube 频道</a> &nbsp;•&nbsp;
+  <a href="https://www.youtube.com/@%E6%91%B8%E7%9F%B3%E8%BF%87%E6%B2%B3">🎬 YouTube 频道</a> &nbsp;•&nbsp;
   <a href="https://x.com/FeelingStones88">🐦 Twitter / X</a> &nbsp;•&nbsp;
   <a href="https://github.com/feelingthestones/motive-system-ontology/discussions">💬 参与讨论</a>
 </p>
@@ -41,7 +41,7 @@
 !!! example "视频配合学习"
     边看YouTube视频边阅读文本
     
-    [:octicons-arrow-right-24: 前往频道](https://youtube.com/@feeling-the-stones)
+    [:octicons-arrow-right-24: 前往频道](https://www.youtube.com/@%E6%91%B8%E7%9F%B3%E8%BF%87%E6%B2%B3)
 
 ---
 
