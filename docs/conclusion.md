@@ -78,13 +78,17 @@ MSO是在**提供一种新的看见方式**。
 
 ## 邀请
 
-这个理论还在生成中。
+这个理论还在成长中。
 
 如果你有批评、疑问、补充，  
-请在 [GitHub Discussions](https://github.com/feelingthestones/motive-system-ontology/discussions) 留言。
+欢迎到 [「摸石过河」频道](https://www.youtube.com/@%E6%91%B8%E7%9F%B3%E8%BF%87%E6%B2%B3) 来留言。
 
 让我们一起完善这个理论。  
-让我们一起理解：宇宙到底在干什么。
+让我们一起理解：这世间万物的瞬息万变，气象万千。
+
+我是查尔斯，老查  
+于 新加坡  
+2025，2026
 
 ---
 
@@ -97,9 +101,3 @@ To understand motive is to participate in the continuation of the cosmos.*
 
 **感谢你读到这里。**  
 **欢迎来到能量的旅程。**
-
----
-
-摸石过河 查尔斯  
-Feeling the Stones  
-动机系统论发起人
