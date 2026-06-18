@@ -226,4 +226,4 @@ East and West, walking toward the same river, finally meet.*
 
 ---
 
-[← 上一章：第十五章](ch15-vs-confucianism.md) | [下一章：第十七章 →](ch17-vs-modern-science.md)
+[← 上一章：第十五章](ch15-vs-confucianism.md) | [下一章：第十六章·乙 与逻辑、辩证法、方法论的分工 →](ch16b-vs-logic-dialectics.md)

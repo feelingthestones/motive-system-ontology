@@ -280,6 +280,7 @@ MSO的核心命题（"流动是本体"、"自相似"、"差异是存在的前提
 我们的答案：
 - **与儒家**：继承其伦理洞见，把它宇宙化
 - **与西方哲学**：补完其形而上学，从过程本体走向能量流动
+- **与思维方法（逻辑、辩证法、方法论）**：不争高下，而是分工——MSO 站在它们之下做本体论地基，用逻辑、受方法论约束，把辩证运动安放为"对立性差异"这一特例下的显现（见第十六章·乙）
 - **与现代科学**：东方哲学的直觉与科学发现相互印证、彼此呼应
 
 MSO不是在否定任何传统。**MSO是所有深刻思想汇流的地点。**
@@ -299,4 +300,4 @@ The flow is real. East and West both know it now.*
 
 ---
 
-[← 上一章：第十六章](ch16-vs-western-philosophy.md) | [下一章：第五编开始 →](../part5-application/ch18-understanding-self.md)
+[← 上一章：第十六章·乙 与逻辑、辩证法、方法论的分工](ch16b-vs-logic-dialectics.md) | [下一章：第五编开始 →](../part5-application/ch18-understanding-self.md)

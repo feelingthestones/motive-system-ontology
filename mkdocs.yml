@@ -63,6 +63,7 @@ nav:
     - 第十四章 超越"缘起性空": chapters/part4-dialogues/ch14-vs-buddhism.md
     - 第十五章 超越"理一分殊": chapters/part4-dialogues/ch15-vs-confucianism.md
     - 第十六章 与西方哲学对话: chapters/part4-dialogues/ch16-vs-western-philosophy.md
+    - 第十六章·乙 与逻辑、辩证法、方法论的分工: chapters/part4-dialogues/ch16b-vs-logic-dialectics.md
     - 第十七章 与现代科学对话: chapters/part4-dialogues/ch17-vs-modern-science.md
   
   - 第五编 应用与未来:
@@ -78,6 +79,7 @@ nav:
     - 参考文献: appendix/references.md
     - 常见问题 FAQ: appendix/faq.md
     - 批评与回应: appendix/criticisms.md
+    - 防诡辩准则: appendix/anti-sophistry.md
   - 🎬 视频: https://www.youtube.com/@%E6%91%B8%E7%9F%B3%E8%BF%87%E6%B2%B3
 
 plugins:
