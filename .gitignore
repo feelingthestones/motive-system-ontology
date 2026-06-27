@@ -19,6 +19,9 @@ Thumbs.db
 *.temp
 .cache/
 
+# FUSE orphaned handles (created when a mounted file is replaced while still open)
+.fuse_hidden*
+
 # Build outputs (if using static site generators)
 _site/
 dist/

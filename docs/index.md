@@ -1,7 +1,7 @@
 # 动机系统论 完整导航
 
 <p align="center">
-  <img src="images/covers/mso-logo.png" width="300" alt="MSO Logo">
+  <img src="images/covers/“动机系统论”-logo.png" width="300" alt="“动机系统论” Logo">
 </p>
 
 <p align="center" style="font-size: 1.5em; font-weight: bold; color: #7c3aed;">
@@ -12,7 +12,7 @@
 
 ## 👋 关于作者与频道
 
-我是 **摸石过河 · 查尔斯（Charles）**，动机系统论（MSO）的发起人。
+我是 **摸石过河 · 查尔斯（Charles）**，动机系统论（“动机系统论”）的发起人。
 
 我相信，物理、生命、意识与文明背后藏着同一条线索——**能量想要流动**。多年来我把这个直觉一点点打磨成一套完整的本体论框架：从对称性破缺到粒子与时空，从 DNA 到神经元，从货币到 AI，万物的复杂性都是能量在寻找更好的流动方式。这本书就是这套思考的完整呈现。
 
@@ -136,22 +136,22 @@
 
 ### 第四编：与传统对话
 
-!!! question "MSO如何回应古今哲学"
+!!! question "“动机系统论”如何回应古今哲学"
     不是推翻传统，而是重新解释
 
 - [**第十三章** 超越"道生一"](chapters/part4-dialogues/ch13-vs-dao.md)
-  - 老子说"道"，MSO说"能量流动"
+  - 老子说"道"，“动机系统论”说"能量流动"
 
 - [**第十四章** 超越"缘起性空"](chapters/part4-dialogues/ch14-vs-buddhism.md)
-  - 佛家说"缘起"，MSO说"系"
+  - 佛家说"缘起"，“动机系统论”说"系"
 
 - [**第十五章** 超越"理一分殊"](chapters/part4-dialogues/ch15-vs-confucianism.md)
-  - 理学说"理"，MSO说"流动的轨迹"
+  - 理学说"理"，“动机系统论”说"流动的轨迹"
 
 - [**第十六章** 与西方哲学对话](chapters/part4-dialogues/ch16-vs-western-philosophy.md)
   - vs 柏拉图、亚里士多德、康德、尼采、海德格尔
 
-- [**第十七章** 与现代科学对话](chapters/part4-dialogues/ch17-vs-modern-science.md)
+- [**第十八章** 与现代科学对话](chapters/part4-dialogues/ch18-vs-modern-science.md)
   - vs 热力学、量子力学、演化论、神经科学
 
 ---
@@ -161,18 +161,18 @@
 !!! success "理论如何改变生活"
     从理解自己到预测未来
 
-- [**第十八章** 理解自己](chapters/part5-application/ch18-understanding-self.md)
+- [**第二十章** 理解自己](chapters/part5-application/ch20-understanding-self.md)
   - 焦虑 = 能量流动受阻
   - 成长 = 找到新的流动方式
 
-- [**第十九章** 理解社会](chapters/part5-application/ch19-understanding-society.md)
+- [**第二十一章** 理解社会](chapters/part5-application/ch21-understanding-society.md)
   - 经济、政治、文化的动机系统
 
-- [**第二十章** AI与意识：它有"动"吗？](chapters/part5-application/ch20-ai-consciousness.md)
+- [**第二十二章** AI与意识：它有"动"吗？](chapters/part5-application/ch22-ai-consciousness.md)
   - 现在的AI有"动-机-系-统"吗？
   - AGI需要什么？
 
-- [**第二十一章** 未来的演化](chapters/part5-application/ch21-future.md)
+- [**第二十三章** 未来的演化](chapters/part5-application/ch23-future.md)
   - 人类的下一次"动"在哪里？
   - 宇宙的终点是什么？
 
@@ -198,10 +198,10 @@
 
 === "意识本质"
     - [第十一章：意识层的流动](chapters/part3-manifestation/ch11-consciousness.md)
-    - [第二十章：AI与意识：它有"动"吗？](chapters/part5-application/ch20-ai-consciousness.md)
+    - [第二十二章：AI与意识：它有"动"吗？](chapters/part5-application/ch22-ai-consciousness.md)
 
 === "个人成长"
-    - [第十八章：理解自己](chapters/part5-application/ch18-understanding-self.md)
+    - [第二十章：理解自己](chapters/part5-application/ch20-understanding-self.md)
     - [第零章·叁：四阶段](chapters/part0-foundation/ch00c-four-stages.md)
 
 === "东方哲学"

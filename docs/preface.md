@@ -53,7 +53,7 @@
 物理学可以描述**如何**发生，
 但它不回答**为何**发生。
 
-MSO 的回答是：
+“动机系统论” 的回答是：
 
 > **因为虚空想要存在。**
 
@@ -104,13 +104,13 @@ MSO 的回答是：
 
 ## 什么是"能量"
 
-到这里，我可以给出 MSO 对"能量"的定义了。
+到这里，我可以给出 “动机系统论” 对"能量"的定义了。
 
 在物理学中，能量是"做功的能力"——一个可量化的概念。
 在中国哲学中，"气"是宇宙的基本实在——一个包含生命力的概念。
 这两者各自捕捉了实在的一个侧面，但都不完整。
 
-MSO 的能量，指的是：
+“动机系统论” 的能量，指的是：
 
 > **虚空"想要存在"这个原始事件本身，
 > 以及它在所有尺度上的自相似重演。**
@@ -151,7 +151,7 @@ MSO 的能量，指的是：
 **不是被谁设计的。**
 
 如果有一个外在的设计者，那个设计者本身也必须遵循"动-机-系-统"的过程，
-否则我们就承认了有某种东西在 MSO 之外。
+否则我们就承认了有某种东西在 “动机系统论” 之外。
 所以循环不需要设计者。
 循环就是存在本身的形状——
 正如圆不需要被设计成圆，圆就是圆。
@@ -165,7 +165,7 @@ MSO 的能量，指的是：
 在这个框架中，时间也不再是我们习惯的那个时间。
 
 虚空可能"存在"了无数个人类可知时间维度的岁月。
-但 MSO 不以钟表的时间来衡量虚空——
+但 “动机系统论” 不以钟表的时间来衡量虚空——
 虚空的维度是以**意动 → 聚集 → 发展 → 消散**来计量的。
 
 我们所知道的宇宙——从大爆炸到现在——
@@ -179,7 +179,7 @@ MSO 的能量，指的是：
 
 ## 新的语法
 
-我把这套框架称为**动机系统论（Motive-System Ontology, MSO）**。
+我把这套框架称为**动机系统论（Motive-System Ontology, “动机系统论”）**。
 
 "动机"是意志的语言——能量想要存在。
 "系统"是结构的语言——存在如何组织自身。
@@ -203,7 +203,7 @@ MSO 的能量，指的是：
 *Before time, before space, there was the Void.*
 *The Void was not nothing — it was the tendency to become something.*
 *In the quantum foam, a symmetry broke. Matter exceeded antimatter by one part in a billion.*
-*Physics calls this CP violation. MSO calls it the first wanting.*
+*Physics calls this CP violation. “动机系统论” calls it the first wanting.*
 *That wanting is energy. Not the energy of textbooks — but the primordial event of Void reaching toward existence, replaying itself at every scale.*
 *A star burning, a cell dividing, a mind thinking — all are copies of that first pulse.*
 *This is the Motive-System Ontology: the grammar of becoming.*

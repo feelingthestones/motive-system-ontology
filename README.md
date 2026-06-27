@@ -51,7 +51,7 @@
 - 🌌 [宇宙起源](docs/chapters/part3-manifestation/ch08-physics.md)
 - 🧬 [生命起源](docs/chapters/part3-manifestation/ch10-life.md)
 - 🧠 [意识起源](docs/chapters/part3-manifestation/ch11-consciousness.md)
-- 🤖 [AI与意识](docs/chapters/part5-application/ch20-ai-consciousness.md)
+- 🤖 [AI与意识](docs/chapters/part5-application/ch22-ai-consciousness.md)
 
 ---
 

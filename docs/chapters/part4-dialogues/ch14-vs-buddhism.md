@@ -268,7 +268,7 @@
 ---
 
 *The Buddha saw the three marks: dependence, impermanence, non-self.
-MSO sees the four moments: motion, mechanism, connection, unity.
+“动机系统论” sees the four moments: motion, mechanism, connection, unity.
 The Buddha said: Suffering comes from grasping the ungraspable.
 We add: Yet the ungraspable itself can be understood, and understood, can be danced with.
 At the moment when you see the flow, you are already free.*

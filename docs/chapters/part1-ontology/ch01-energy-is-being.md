@@ -9,7 +9,7 @@
 现在的问题是：
 这个从虚空涌出的能量，如何成为了我们眼前的一切？
 
-MSO 的回答很简单：
+“动机系统论” 的回答很简单：
 
 > **它从未变成别的东西。万物就是它。**
 
@@ -40,13 +40,13 @@ MSO 的回答很简单：
 气聚集，就形成了万物；气消散，就回归虚空。
 没有什么真正诞生，也没有什么真正消失——只有聚散的变化。
 
-用 MSO 的语言来理解张载：
+用 “动机系统论” 的语言来理解张载：
 "太虚即气"就是"虚空本身就是能量"——
 虚空不是空的容器，虚空就是能量还没有凝聚时的状态。
 "气聚则形"就是"能量凝固为物质"——
 这正是虚空想要存在的具体展开。
 
-张载用九百年前的汉语，直觉地把握了 MSO 的第一公理。
+张载用九百年前的汉语，直觉地把握了 “动机系统论” 的第一公理。
 
 ---
 
@@ -71,7 +71,7 @@ MSO 的回答很简单：
 
 但要注意：物理学的 energy 是一个可量化的操作概念——做功的能力、焦耳、卡路里。
 张载的"气"是一个包含生命力和意向性的本体概念。
-MSO 的"能量"统一了两者：
+“动机系统论” 的"能量"统一了两者：
 它既有物理学描述的可量化面向，
 也有中国哲学直觉到的生命力面向——
 因为它的根源就是虚空那个"想要存在"的意动。
@@ -121,9 +121,9 @@ MSO 的"能量"统一了两者：
 意识是能量流动达到足够复杂的自我组织之后，
 **开始回望自身**的状态。
 
-这是 MSO 与唯物主义的根本区别：
+这是 “动机系统论” 与唯物主义的根本区别：
 唯物主义说意识是物质的副产品——一个附带现象。
-MSO 说意识不是附带的，意识是能量**本来就有的潜能**——
+“动机系统论” 说意识不是附带的，意识是能量**本来就有的潜能**——
 当流动的复杂度达到某个阈值，
 能量就会认出自己。
 
@@ -144,7 +144,7 @@ MSO 说意识不是附带的，意识是能量**本来就有的潜能**——
 那"感觉起来像什么"——那个体验的维度——从哪里来？
 这就是查莫斯提出的"意识难题"（Hard Problem of Consciousness）。
 
-MSO 不把意识还原为物质，
+“动机系统论” 不把意识还原为物质，
 也不把物质提升为意识，
 而是把物质和意识**都归源于能量**——
 同时指出，这个能量从一开始就不是"冷冰冰的物理量"。
@@ -155,7 +155,7 @@ MSO 不把意识还原为物质，
 两者不是对立，而是同一源头的不同面貌。
 
 **能量不是死的物质，能量是活的流动。**
-这就是 MSO 的能量一元论与西方唯物论的根本区别。
+这就是 “动机系统论” 的能量一元论与西方唯物论的根本区别。
 
 ---
 
@@ -168,7 +168,7 @@ MSO 不把意识还原为物质，
 "色"（rūpa），是有形的存在，是物质世界。
 "空"（śūnyatā），不是虚无，而是"无固定自性"——没有永恒不变的本质。
 
-用 MSO 的语言：
+用 “动机系统论” 的语言：
 
 > **物质（"色"）是能量的暂时凝结；虚空（"空"）是能量的待显状态。**
 > 二者不是对立，而是同一实在的两种面貌。
@@ -202,7 +202,7 @@ MSO 不把意识还原为物质，
 
 ---
 
-*The Void's first wanting crystallized into matter, patterned into information, and turned upon itself to become consciousness. Zhang Zai called it qi. Einstein wrote E = mc². The Heart Sutra called it the unity of form and emptiness. They are three languages for one reality: there is only energy — alive, flowing, and self-aware in potential. MSO begins here.*
+*The Void's first wanting crystallized into matter, patterned into information, and turned upon itself to become consciousness. Zhang Zai called it qi. Einstein wrote E = mc². The Heart Sutra called it the unity of form and emptiness. They are three languages for one reality: there is only energy — alive, flowing, and self-aware in potential. “动机系统论” begins here.*
 
 ---
 

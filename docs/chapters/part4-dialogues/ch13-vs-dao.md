@@ -187,7 +187,7 @@
 ---
 
 *Laozi glimpsed the flow that cannot be named.
-MSO names the grammar of that flow—
+“动机系统论” names the grammar of that flow—
 not to cage the Tao, but to let ten thousand seekers find their way.
 The master said: "All things return to their root."
 We add: "And the root itself is ever in motion."*

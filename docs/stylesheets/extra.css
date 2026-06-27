@@ -1,25 +1,25 @@
 /* ========================================
-   MSO — Modern Design System
+   “动机系统论” — Modern Design System
    ======================================== */
 
 /* --- Custom Properties --- */
 :root {
-  --mso-purple: #6d28d9;
-  --mso-purple-light: #a78bfa;
-  --mso-purple-subtle: #ede9fe;
-  --mso-purple-deep: #4c1d95;
-  --mso-gold: #d97706;
-  --mso-radius: 12px;
-  --mso-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
-  --mso-shadow-md: 0 4px 20px rgba(109, 40, 217, 0.08);
-  --mso-shadow-lg: 0 12px 40px rgba(109, 40, 217, 0.12);
-  --mso-transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  --“动机系统论”-purple: #6d28d9;
+  --“动机系统论”-purple-light: #a78bfa;
+  --“动机系统论”-purple-subtle: #ede9fe;
+  --“动机系统论”-purple-deep: #4c1d95;
+  --“动机系统论”-gold: #d97706;
+  --“动机系统论”-radius: 12px;
+  --“动机系统论”-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --“动机系统论”-shadow-md: 0 4px 20px rgba(109, 40, 217, 0.08);
+  --“动机系统论”-shadow-lg: 0 12px 40px rgba(109, 40, 217, 0.12);
+  --“动机系统论”-transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 [data-md-color-scheme="slate"] {
-  --mso-purple-subtle: rgba(167, 139, 250, 0.08);
-  --mso-shadow-md: 0 4px 20px rgba(0, 0, 0, 0.2);
-  --mso-shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.3);
+  --“动机系统论”-purple-subtle: rgba(167, 139, 250, 0.08);
+  --“动机系统论”-shadow-md: 0 4px 20px rgba(0, 0, 0, 0.2);
+  --“动机系统论”-shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.3);
 }
 
 /* --- Typography --- */
@@ -27,17 +27,17 @@ h1 {
   font-size: 2em !important;
   font-weight: 800 !important;
   letter-spacing: -0.02em;
-  color: var(--mso-purple) !important;
+  color: var(--“动机系统论”-purple) !important;
   line-height: 1.2 !important;
 }
 
 h2 {
   font-size: 1.5em !important;
   font-weight: 700 !important;
-  color: var(--mso-purple) !important;
+  color: var(--“动机系统论”-purple) !important;
   margin-top: 3rem !important;
   padding-bottom: 0.4rem;
-  border-bottom: 2px solid var(--mso-purple-subtle);
+  border-bottom: 2px solid var(--“动机系统论”-purple-subtle);
 }
 
 h3 {
@@ -49,7 +49,7 @@ h3 {
 .md-typeset p[style*="font-size: 1.5em"] {
   font-size: 1.25em !important;
   font-weight: 600 !important;
-  color: var(--mso-purple) !important;
+  color: var(--“动机系统论”-purple) !important;
   background: none !important;
   -webkit-background-clip: unset !important;
   -webkit-text-fill-color: unset !important;
@@ -58,8 +58,8 @@ h3 {
   margin: 1rem auto 2rem !important;
   padding: 0.75rem 1.5rem;
   max-width: 600px;
-  border-left: 3px solid var(--mso-purple);
-  border-right: 3px solid var(--mso-purple);
+  border-left: 3px solid var(--“动机系统论”-purple);
+  border-right: 3px solid var(--“动机系统论”-purple);
 }
 
 /* --- Logo --- */
@@ -67,13 +67,13 @@ h3 {
   max-width: 220px;
   height: auto;
   border-radius: 50%;
-  box-shadow: var(--mso-shadow-md);
-  transition: var(--mso-transition);
+  box-shadow: var(--“动机系统论”-shadow-md);
+  transition: var(--“动机系统论”-transition);
 }
 
 .md-typeset img[alt*="Logo"]:hover {
   transform: scale(1.03);
-  box-shadow: var(--mso-shadow-lg);
+  box-shadow: var(--“动机系统论”-shadow-lg);
 }
 
 /* --- Horizontal Rules --- */
@@ -83,7 +83,7 @@ h3 {
   background: linear-gradient(
     90deg,
     transparent,
-    var(--mso-purple-light),
+    var(--“动机系统论”-purple-light),
     transparent
   );
   margin: 2.5rem 0;
@@ -93,17 +93,17 @@ h3 {
 .md-typeset .admonition,
 .md-typeset details {
   border: none !important;
-  border-left: 3px solid var(--mso-purple) !important;
-  border-radius: var(--mso-radius) !important;
-  box-shadow: var(--mso-shadow-sm);
+  border-left: 3px solid var(--“动机系统论”-purple) !important;
+  border-radius: var(--“动机系统论”-radius) !important;
+  box-shadow: var(--“动机系统论”-shadow-sm);
   overflow: hidden;
-  transition: var(--mso-transition);
-  background: var(--mso-purple-subtle) !important;
+  transition: var(--“动机系统论”-transition);
+  background: var(--“动机系统论”-purple-subtle) !important;
 }
 
 .md-typeset .admonition:hover,
 .md-typeset details:hover {
-  box-shadow: var(--mso-shadow-md);
+  box-shadow: var(--“动机系统论”-shadow-md);
 }
 
 .md-typeset .admonition.info {
@@ -117,7 +117,7 @@ h3 {
 }
 
 .md-typeset .admonition.example {
-  border-left-color: var(--mso-gold) !important;
+  border-left-color: var(--“动机系统论”-gold) !important;
   background: rgba(217, 119, 6, 0.05) !important;
 }
 
@@ -139,41 +139,41 @@ h3 {
 /* --- Tabbed Content --- */
 .md-typeset .tabbed-set {
   margin: 2rem 0;
-  border-radius: var(--mso-radius);
+  border-radius: var(--“动机系统论”-radius);
   overflow: hidden;
-  box-shadow: var(--mso-shadow-sm);
+  box-shadow: var(--“动机系统论”-shadow-sm);
 }
 
 .md-typeset .tabbed-labels {
-  border-bottom: 2px solid var(--mso-purple-subtle);
+  border-bottom: 2px solid var(--“动机系统论”-purple-subtle);
 }
 
 .md-typeset .tabbed-labels > label {
   font-weight: 600;
   color: var(--md-default-fg-color--light);
-  transition: var(--mso-transition);
+  transition: var(--“动机系统论”-transition);
   padding: 0.75rem 1.25rem;
 }
 
 .md-typeset .tabbed-labels > label:hover {
-  color: var(--mso-purple);
+  color: var(--“动机系统论”-purple);
 }
 
 .md-typeset .tabbed-labels > label.active,
 .md-typeset input:checked + label {
-  color: var(--mso-purple) !important;
-  border-color: var(--mso-purple) !important;
+  color: var(--“动机系统论”-purple) !important;
+  border-color: var(--“动机系统论”-purple) !important;
 }
 
 /* --- Links --- */
 .md-typeset a {
-  color: var(--mso-purple);
+  color: var(--“动机系统论”-purple);
   text-decoration: none;
-  transition: var(--mso-transition);
+  transition: var(--“动机系统论”-transition);
 }
 
 .md-typeset a:hover {
-  color: var(--mso-purple-deep);
+  color: var(--“动机系统论”-purple-deep);
 }
 
 /* Octicon arrow links — CTA style */
@@ -184,11 +184,11 @@ h3 {
   font-weight: 600;
   padding: 0.25rem 0;
   border-bottom: 2px solid transparent;
-  transition: var(--mso-transition);
+  transition: var(--“动机系统论”-transition);
 }
 
 .md-typeset a:has(.twemoji):hover {
-  border-bottom-color: var(--mso-purple-light);
+  border-bottom-color: var(--“动机系统论”-purple-light);
 }
 
 /* --- List Items (chapter links) --- */
@@ -197,17 +197,17 @@ h3 {
 }
 
 .md-typeset li > a > strong {
-  color: var(--mso-purple);
+  color: var(--“动机系统论”-purple);
 }
 
 /* --- Blockquotes --- */
 .md-typeset blockquote {
-  border-left: 3px solid var(--mso-purple-light);
+  border-left: 3px solid var(--“动机系统论”-purple-light);
   padding: 0.5rem 1rem;
   color: var(--md-default-fg-color--light);
   font-style: italic;
-  background: var(--mso-purple-subtle);
-  border-radius: 0 var(--mso-radius) var(--mso-radius) 0;
+  background: var(--“动机系统论”-purple-subtle);
+  border-radius: 0 var(--“动机系统论”-radius) var(--“动机系统论”-radius) 0;
 }
 
 /* --- Center-aligned content --- */
@@ -220,17 +220,17 @@ p[align="center"] {
 .md-typeset p[align="center"] a {
   font-weight: 700;
   font-size: 1.1em;
-  color: var(--mso-purple);
-  transition: var(--mso-transition);
+  color: var(--“动机系统论”-purple);
+  transition: var(--“动机系统论”-transition);
 }
 
 .md-typeset p[align="center"] a:hover {
-  color: var(--mso-purple-deep);
+  color: var(--“动机系统论”-purple-deep);
 }
 
 /* --- Copyright Footer --- */
 p[style*="color: #6b7280"] {
-  border-top: 1px solid var(--mso-purple-subtle);
+  border-top: 1px solid var(--“动机系统论”-purple-subtle);
   padding-top: 2rem;
   margin-top: 3rem;
   text-align: center;
@@ -256,15 +256,15 @@ html {
 
 /* --- Navigation polish --- */
 .md-nav__link {
-  transition: var(--mso-transition);
+  transition: var(--“动机系统论”-transition);
 }
 
 .md-nav__link:hover {
-  color: var(--mso-purple) !important;
+  color: var(--“动机系统论”-purple) !important;
 }
 
 .md-nav__link--active {
-  color: var(--mso-purple) !important;
+  color: var(--“动机系统论”-purple) !important;
   font-weight: 600;
 }
 
@@ -275,7 +275,7 @@ html {
 
 /* --- Appendix emoji links --- */
 .md-typeset li > a:first-child {
-  transition: var(--mso-transition);
+  transition: var(--“动机系统论”-transition);
 }
 
 .md-typeset li > a:first-child:hover {
